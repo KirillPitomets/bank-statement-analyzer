@@ -45,5 +45,5 @@
     npm run lint
     ```
 ## 📸 Скриншот головної сторінки
-<img width="1280" height="720" alt="bank1" src="https://github.com/user-attachments/assets/ad7a9c83-0be5-432e-9873-e0f637645fca" />
-<img width="1280" height="720" alt="bank2" src="https://github.com/user-attachments/assets/2e144047-9e02-4a8f-8ba0-12ef2350d3c0" />
+<img width="1920" height="1080" alt="localhost_3000_ (1)" src="https://github.com/user-attachments/assets/8b82b089-f0fe-4fe5-9def-6f7d0c13a41a" />
+
