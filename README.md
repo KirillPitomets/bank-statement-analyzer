@@ -20,7 +20,7 @@
    git clone https://github.com/KirillPitomets/bank-statement-analyzer.git
    ```
 
-2. Встановіть залежності:
+2. Перейдіть у папку проекту:
     ```bash
     cd bank-statement-analyzer
     ```
